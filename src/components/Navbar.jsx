@@ -5,7 +5,7 @@ export default function Navbar() {
     // <nav className="font-poppins sticky flex justify-between px-5 py-7">
     <nav className="font-poppins sticky top-0 z-50 flex justify-between bg-white/10 px-5 py-3 backdrop-blur">
       <div className="w-1/6">
-        <p className="cursor-default text-2xl font-bold">Averus</p>
+        <p className="cursor-default text-2xl font-bold">Asmoro</p>
       </div>
 
       <div className="flex w-4/6 justify-center gap-5 text-lg font-bold">
