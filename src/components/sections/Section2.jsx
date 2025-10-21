@@ -19,7 +19,7 @@ export default function Section2() {
           <p className="italic">
             Hello semuanya, Aku Hizzkiww, seorang developer yang berdedikasi untuk menciptakan solusi digital yang inovatif.
             memiliki pengalaman pada bidang web development membuat saya memiliki skill untuk mengembangkan aplikasi web
-            yang responsif dan user-friendly. dan siap berkolaborasi dengan siapa saja
+            yang responsif dan user-friendly. dan siap berkolaborasi dengan siapa saja anjay
           </p>
         </div>
       </div>
